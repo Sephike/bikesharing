@@ -26,7 +26,7 @@ This heatmap allows us to see how manyu users are subscribed and which gender th
 
 In this map we can find where the bikes are used the most, this can help gives us an idea of future expansions.
 
-!["Top Ending Locations"](Resources/Top_Ending_Locations.png)
+!["Top Ending Locations"](Resources/Top_Ending_Location.png)
 
 In this map we see where people usually end their trips.
 ## Summary
