@@ -31,4 +31,4 @@ In this map we can find where the bikes are used the most, this can help gives u
 In this map we see where people usually end their trips.
 ## Summary
 The challenge this week helps us have an idea of how a bikesharing company of our own may play out. Each one of our visualtions have a story to tell and can answer a number of questions. However I think having a visulation to look at how long none subscribed users take to ride the bike, to give us an idea as to how interested people are to trying out our service. Another visulation is looking at the age our subscribers are to have a good understanding of our target audience.
-[Link to Dashboard]("https://public.tableau.com/profile/stephen.hadley#!/vizhome/bikesharing_16117033859370/Bikesharing?publish=yes")
+[Link to Dashboard](https://public.tableau.com/profile/stephen.hadley#!/vizhome/bikesharing_16117033859370/Bikesharing?publish=yes "Link Goes Here")
